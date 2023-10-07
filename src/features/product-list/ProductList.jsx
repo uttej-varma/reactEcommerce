@@ -388,6 +388,7 @@ export default function ProductList() {
                                         className="absolute inset-0"
                                       />
                                       {product.name}
+                                      {/* comment */}
                                     </a>
                                   </h3>
                                   <p className="mt-1 text-sm text-gray-500">
